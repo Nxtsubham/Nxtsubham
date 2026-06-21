@@ -143,13 +143,13 @@ email: subhambarik520@gmail.com
 ## 💡 What I'm Up To
 
 - 🔭 Currently working on **AI-powered automation tools**
-- - 🌱 Learning **Golang** and mastering **Dynamic Programming**
-  - - 👯 Open to collaborate on **AI/ML** and **Backend** projects
-    - - 🎯 Goal: Land a **Backend/Full Stack Developer** role at a top tech company
-      - - 💬 Ask me about **Python, Node.js, React, AI/ML, Data Automation**
-        - - 📫 Reach me at: **subhambarik520@gmail.com**
+- 🌱 Learning **Golang** and mastering **Dynamic Programming**
+- 👯 Open to collaborate on **AI/ML** and **Backend** projects
+- 🎯 Goal: Land a **Backend/Full Stack Developer** role at a top tech company
+- 💬 Ask me about **Python, Node.js, React, AI/ML, Data Automation**
+- 📫 Reach me at: **subhambarik520@gmail.com**
          
-          - ---
+          ---
 
           <div align="center">
 
