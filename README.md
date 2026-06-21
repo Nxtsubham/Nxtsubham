@@ -148,22 +148,22 @@ email: subhambarik520@gmail.com
 - 🎯 Goal: Land a **Backend/Full Stack Developer** role at a top tech company
 - 💬 Ask me about **Python, Node.js, React, AI/ML, Data Automation**
 - 📫 Reach me at: **subhambarik520@gmail.com**
-         
-          ---
 
-          <div align="center">
+---
 
-          ### 💼 Open to Opportunities!
+<div align="center">
 
-          If you're a **recruiter or hiring manager** looking for a passionate developer — let's connect!
+### 💼 Open to Opportunities!
 
-          [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-barik-90bb13276)
-          [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhambarik520@gmail.com)
+If you're a **recruiter or hiring manager** looking for a passionate developer — let's connect!
 
-          ---
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-barik-90bb13276)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhambarik520@gmail.com)
 
-          *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+---
 
-          ⭐ **From [Nxtsubham](https://github.com/Nxtsubham) with ❤️**
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-          </div>
+⭐ **From [Nxtsubham](https://github.com/Nxtsubham) with ❤️**
+
+</div>
